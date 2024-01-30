@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Elements - TextBox - tanpa Fullname,Email,Current Address,Permanent Address</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac46ea54-050a-4664-a94f-9aff946cbe4b</testCaseGuid>
+</TestCaseEntity>
